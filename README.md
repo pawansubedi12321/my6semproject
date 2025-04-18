@@ -184,4 +184,5 @@ copyright 2025 creativeLabs Łukasz Holeczek.
 
 Code released under [the MIT license](https://github.com/coreui/coreui-free-react-admin-template/blob/main/LICENSE).#   m y 6 s e m p r o j e c t  
  #   m y 6 s e m p r o j e c t  
+ #   m y 6 s e m p r o j e c t  
  
